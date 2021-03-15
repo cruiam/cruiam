@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming, history and political science.
 - 🌱 I’m currently learning front end engineering on codecademy.com
 - 📫 How to reach me gurshaantakhar@live.com
+- I am new to Github and I am learning as I go.
 
 <!---
 cruiam/cruiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
